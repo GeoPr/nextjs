@@ -1,0 +1,7 @@
+.wrapper {
+	min-height: 100vh;
+	width: 100%;
+	overflow: hidden;
+	padding: 100px 0;
+	background: #232332;
+}
